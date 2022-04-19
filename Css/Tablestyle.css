@@ -1,0 +1,28 @@
+body{
+    background-color: cornflowerblue;
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+}
+
+table{
+    
+    font-size: 50px;
+
+}
+
+
+table th{
+    
+    background-color: dimgrey;
+    color: aliceblue;
+}
+.difcolor{
+    background-color:lightgreen;
+    color: aliceblue;
+}
+td{
+    background-color: aliceblue;
+    color: black;
+}
